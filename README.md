@@ -1,1 +1,1 @@
-# Projeto-Automa-o-De-Dados-Com-Telegram-e-AWS
+# Projeto Automacao De Dados Com Telegram e AWS
