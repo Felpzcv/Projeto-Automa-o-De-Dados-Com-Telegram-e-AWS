@@ -1,0 +1,1 @@
+# Projeto-Automa-o-De-Dados-Com-Telegram-e-AWS
